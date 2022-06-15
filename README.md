@@ -85,6 +85,9 @@ That's it!
         All server output is stored in current folder in 'logs/blynk.log' file.
         
 ### Enabling mail on Local server
+
+### NOTE - From May 30th 2022 Google has stopped allowing less secure applications on personal Gmail accounts, so email from the Blynk local server will not be possible in most cases.
+
 To enable mail notifications on Local server you need to provide your own mail credentials. Create file `mail.properties` within same folder where `server.jar` is.
 Mail properties:
 
@@ -99,7 +102,7 @@ Find example [here](https://github.com/Peterkn2001/blynk-server/blob/master/serv
 
 WARNING : only gmail accounts are allowed.
 
-NOTE : you'll need to setup Gmail to allow less secured applications.
+NOTE : you'll need to setup Gmail to allow less secure applications.
 Go [here](https://www.google.com/settings/security/lesssecureapps) and then click "Allow less secure apps".
 
 ## Quick local server setup on Raspberry PI
