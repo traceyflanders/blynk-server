@@ -1,4 +1,21 @@
 # What is Blynk?
+
+### Note that this Blynk Legacy server is now discontinued and unsupported!
+It does not work with the latest Blynk app, and the Legacy app will be withdrawn from the app/play stores from 30th June 2022.
+Previously installed apps will continue to work, although later versions of the legacy app do not have the ability to
+create new accounts, so the either an earlier version of the app will be needed, or accounst will need to be created manually
+by copying and renaming the default Blynk.cc account.
+
+The Legacy cloud servers will be decommissioned on 31st December 2022. This will have no impact on local legacy servers, but 
+as all support and updates for this legacy local server and the legacy apps apps has already ceased, using a local legacy server
+should be seen as an interim measure, because the server will eventually become vulnerable when support for Java 11 is withdrawn
+and when the apps no longer run on newer mobile OS releases.
+
+Installing the iOS app after it is withdrawn from the app store will require jailbraking the Apple mobile device, and Android users
+will need to source and side-load a copy of the legacy app outside of the playstore.
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
 Blynk is a platform with iOS and Android apps to control Arduino, ESP8266, Raspberry Pi and the likes over the Internet.  
 You can easily build graphic interfaces for all your projects by simply dragging and dropping widgets.
 If you need more information, please follow these links:
