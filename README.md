@@ -1,5 +1,9 @@
 # What is Blynk?
 
+Fuck Blynk!
+
+# Copied for DIYers #
+
 ### Note that this Blynk Legacy server is now discontinued and unsupported!
 It does not work with the latest Blynk app, and the Legacy app will be withdrawn from the app/play stores from 30th June 2022.
 Previously installed apps will continue to work, although later versions of the legacy app do not have the ability to
